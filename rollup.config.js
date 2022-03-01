@@ -50,6 +50,7 @@ const config = outputs.map(({ file, format }) => ({
     globals: {
       react: 'React',
       'react-dom': 'ReactDOM',
+      'window': 'window'
     },
     exports: 'named',
   },

@@ -8,10 +8,10 @@ const config = {
   proxy: 'https://localhost:3000',
   headers: {},
   parameters: {
-    clientId: 'CLIENT_ID',
-    organizationId: 'ORGANIZATION_ID',
-    shortCode: 'SHORT_CODE',
-    siteId: 'SITE_ID',
+    clientId: 'c9c45bfd-0ed3-4aa2-9971-40f88962b836',
+    organizationId: 'f_ecom_zzrf_001',
+    shortCode: '8o7m175y',
+    siteId: 'RefArchGlobal',
   },
 };
-export { config as default };
+export {config as default};
